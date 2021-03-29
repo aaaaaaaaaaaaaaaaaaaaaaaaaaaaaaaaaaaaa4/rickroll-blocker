@@ -20,5 +20,7 @@ If there is a missing link, please let us know!
 ### Link stats
 
 Youtube links: 35
+
 Custom links: latlmes, theworldthesedays.
+
 Shortened links: cutt.ly, bit.ly, alturl.com, tinyurl.com
