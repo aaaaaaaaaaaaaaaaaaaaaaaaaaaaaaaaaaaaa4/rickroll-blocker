@@ -9,5 +9,14 @@ links = [
     "youtube.com/watch?v=6-HUgzYPm9g", "youtube.com/watch?v=gvGyS5j9aFY",
     "youtube.com/watch?v=r8tXjJL3xcM", "tinyurl.com/2g9mqh", "bit.ly/4kb77v",
     "alturl.com/p749b", "youtube.com/watch?v=tzYPr9w22VU",
-    "youtube.com/watch?v=Lrj2Hq7xqQ8", "rickrolled.fr/", "youtube.com/watch?v=6mhmcwmgWbA", "youtube.com/watch?v=G8iEMVr7GFg", "youtube.com/watch?v=8mkofgRW1II", "youtube.com/watch?v=rAx5LIul1N8", "youtube.com/watch?v=sO4wVSA9UPs", "youtube.com/watch?v=rrs0B_LM898", "youtube.com/watch?v=doEqUhFiQS4", "youtube.com/watch?v=wzSVOcgKq04", "youtube.com/watch?v=7B--1KArxow", "youtube.com/watch?v=rbsPu1z3ugQ", "youtube.com/watch?v=ptw2FLKXDQE", "youtube.com/watch?v=E50L-JYWm3w", "youtube.com/watch?v=8leAAwMIigI", "youtube.com/watch?v=ByqFY-Boq5Y", "youtube.com/watch?v=E4ihJMQUmUQ", "youtube.com/watch?v=cjBHXvBYw5s", "youtube.com/watch?v=xaazUgEKuVA", "youtube.com/watch?v=TzXXHVhGXTQ", ""
+    "youtube.com/watch?v=Lrj2Hq7xqQ8", "rickrolled.fr/",
+    "youtube.com/watch?v=6mhmcwmgWbA", "youtube.com/watch?v=G8iEMVr7GFg",
+    "youtube.com/watch?v=8mkofgRW1II", "youtube.com/watch?v=rAx5LIul1N8",
+    "youtube.com/watch?v=sO4wVSA9UPs", "youtube.com/watch?v=rrs0B_LM898",
+    "youtube.com/watch?v=doEqUhFiQS4", "youtube.com/watch?v=wzSVOcgKq04",
+    "youtube.com/watch?v=7B--1KArxow", "youtube.com/watch?v=rbsPu1z3ugQ",
+    "youtube.com/watch?v=ptw2FLKXDQE", "youtube.com/watch?v=E50L-JYWm3w",
+    "youtube.com/watch?v=8leAAwMIigI", "youtube.com/watch?v=ByqFY-Boq5Y",
+    "youtube.com/watch?v=E4ihJMQUmUQ", "youtube.com/watch?v=cjBHXvBYw5s",
+    "youtube.com/watch?v=xaazUgEKuVA", "youtube.com/watch?v=TzXXHVhGXTQ", ""
 ]
